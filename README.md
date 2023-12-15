@@ -1,6 +1,6 @@
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,typescript)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,angular,typescript)](https://skills.thijs.gg)
 # TPProduitsAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.6.
