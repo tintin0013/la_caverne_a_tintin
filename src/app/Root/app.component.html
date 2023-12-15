@@ -1,0 +1,10 @@
+<app-header></app-header>
+<div class="rootContainer">
+<app-sider></app-sider>
+  <div class="card">
+    <app-produit class="produit"  *ngFor="let produit of this.produit.ListProduitFiltre" [produit]="produit"></app-produit>
+    <!-- <button (click)="addProduit()">Rajoute</button> -->
+  </div>
+</div>
+<app-footer></app-footer>
+
